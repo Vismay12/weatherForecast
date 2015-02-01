@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_units_values">
+        <item>farenheit</item>
+        <item>celcius</item>
+    </array>
+    <array name="pref_units_options">
+        <item>metric</item>
+        <item>imperial</item>
+    </array>
+</resources>
